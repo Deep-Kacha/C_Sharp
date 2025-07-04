@@ -1,0 +1,8 @@
+D:\CSP\CSP_PT\obj\Debug\CSP_PT.csproj.AssemblyReference.cache
+D:\CSP\CSP_PT\obj\Debug\CSP_PT.csproj.CoreCompileInputs.cache
+D:\CSP\CSP_PT\bin\Debug\CSP_PT.exe.config
+D:\CSP\CSP_PT\bin\Debug\CSP_PT.exe
+D:\CSP\CSP_PT\bin\Debug\CSP_PT.pdb
+D:\CSP\CSP_PT\obj\Debug\CSP_PT.exe
+D:\CSP\CSP_PT\obj\Debug\CSP_PT.pdb
+D:\CSP\CSP_PT\obj\Debug\CSP_PT.exe.config
