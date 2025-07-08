@@ -1,0 +1,17 @@
+﻿Array : 
+
+- A collection of elements
+- Store multiple values into a single var
+- Elements are from the same type only
+- Stores elements in contigous space
+- elements can be accessible through its index values
+
+To Declare :
+
+data_Type [] ary_Name = new Data_Type[Size];
+
+int [] rlno = new int[50];
+rlno[0] => roll numbeer of first student(first element)
+rlno[49] => last element
+
+double [] cgpa = 
